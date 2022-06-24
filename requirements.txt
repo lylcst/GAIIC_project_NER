@@ -1,0 +1,12 @@
+dgl==0.6.0.post1
+numpy==1.21.2
+pandas==1.4.1
+requests==2.26.0
+scikit_learn==1.0.2
+scipy==1.8.0
+torch==1.10.1
+torchcontrib==0.0.2
+tqdm==4.63.0
+transformers==4.17.0
+zhon==1.1.5
+ark-nlp==0.0.8
