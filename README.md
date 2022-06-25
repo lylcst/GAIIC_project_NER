@@ -35,7 +35,7 @@
 
 ### 网络结构
 
-![image-20220423220155460](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20220423220155460.png)
+![image-20220423220155460](https://github.com/lylcst/GAIIC_project_NER/blob/master/img/%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%84%E5%9B%BE.png)
 
 ### 损失函数
 
