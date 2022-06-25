@@ -1,0 +1,11 @@
+python run_ner_crf.py --task_name=jdner \
+                      --data_dir datasets/JDNER\
+                      --model_type bert\
+                      --model_name_or_path prev_trained_model/bert-base-chinese/8000/ \
+                      --tokenizer_name bert-base-chinese \
+                      --output_dir model_output\
+                      --save_steps 100 \
+                      --per_gpu_eval_batch_size 16 \
+                      --do_train \
+                      --do_eval \
+                      --overwrite_output_dir
